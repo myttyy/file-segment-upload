@@ -8,6 +8,7 @@
             "email": "1297942619@qq.com"
         }
     ],
+    "minimum-stability": "dev",
     "require": {},
     "autoload": {
         "psr-4": {
