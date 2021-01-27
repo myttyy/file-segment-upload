@@ -8,8 +8,11 @@
             "email": "1297942619@qq.com"
         }
     ],
-    "minimum-stability": "1.0",
-    "require": {},
+    "minimum-stability": "stable",
+    "require": {
+         "php": ">=7.0.0"
+    },
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "myttyy\\": "src/"
