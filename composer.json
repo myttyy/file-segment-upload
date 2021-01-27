@@ -1,0 +1,17 @@
+{
+    "name": "myttyy/file-segment-upload",
+    "description": "php文件上传,大文件分块上传,大文件断点上传到本地,oss/cos分段上传",
+    "type": "library",
+    "authors": [
+        {
+            "name": "myttyy",
+            "email": "1297942619@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "myttyy\\": "src/"
+        }
+    }
+}
